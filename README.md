@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhargav Ravinutala</h1>
 <h3 align="center">Robotics And IoT Enthusiastic....!</h3>
 
-<img align="right" alt="robot" width="400" src="https://i.pinimg.com/originals/a8/80/f5/a880f58adbc25f3b1c429d59682e41cc.gif"
+<img align="right"alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargav-ra&label=Profile%20views&color=0e75b6&style=flat" alt="bhargav-ra" /> </p>
 
