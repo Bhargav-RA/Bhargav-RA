@@ -8,7 +8,7 @@
 
 - 🔭 I’m Intrested in **Robotics,Automation,IoT,Cloud**
 
-- 📝 My Carrier Objective is **to be a part of Research And Development in the field of Robotics** 
+- 📝 My Career Objective is **to be a part of Research And Development in the field of Robotics** 
 
 - 🌱 I’m currently learning **Ros,SLAM,NLP,Automation,Cloud,WeBots,Flutter,PLC,PCB Designng,SolidWorks,UAV**
 
